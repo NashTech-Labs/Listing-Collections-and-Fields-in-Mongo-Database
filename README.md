@@ -11,7 +11,7 @@ Before running the script, make sure you have the following:
 
 ## Usage
 
-1. **Configuration**: Open the script `explore_mongodb_schema.py` in a text editor and provide the necessary MongoDB connection information:
+1. **Configuration**: Open the script `<file name>` in a text editor and provide the necessary MongoDB connection information:
 
     ```python
     # MongoDB connection information
